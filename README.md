@@ -1,4 +1,8 @@
-[<img src="https://github.com/Seventeen23/Seventeen23/blob/2bce0e7316496eb355ef128d457471a36323a572/deku-java.gif" alt="Header GIF"/>](https://Seventeen23/)
+<p align="center">
+  <a href="https://Seventeen23/">
+    <img src="https://github.com/Seventeen23/Seventeen23/blob/2bce0e7316496eb355ef128d457471a36323a572/deku-java.gif" alt="Header GIF"/>
+  </a>
+</p>
 <!--
 **Seventeen23/Seventeen23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
