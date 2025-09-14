@@ -16,7 +16,9 @@
 <li><b>Working @:</b> Unemployed 😿</li>
 <br><br><br>
 </div>
+
 <br><br><br>
+
 <h2 align="center"> 😼 ~ Technologies & Tools ~ 😼 </h2>
 
 <p align="center">
@@ -46,3 +48,9 @@
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"/>
   <br><br>
 </p>
+
+<br><br>
+
+<h2 align="center"> 😼 ~ Contact Me ~ 😼 </h2>
+
+
