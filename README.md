@@ -7,7 +7,7 @@
 <h2 align="center"> 😼 ~ About Me ~ 😼 </h2>
 
 <div align="center">
-<img src="https://github.com/Seventeen23/Seventeen23/blob/72eadd729a2080ea4dd0ac588752a943f449c562/nahida-cat-dance.gif" align="right">
+<img src="https://github.com/Seventeen23/Seventeen23/blob/72eadd729a2080ea4dd0ac588752a943f449c562/nahida-cat-dance.gif" align="right" height=200>
   </div>
 <li><b>Name:</b> Matthew Feri Tanutan</li>
 <li><b>Loves:</b> Servers, Competetive Games, Singleplayer Games</li>
