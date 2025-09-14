@@ -9,7 +9,7 @@
 <div align="center">
 <img src="https://github.com/Seventeen23/Seventeen23/blob/72eadd729a2080ea4dd0ac588752a943f449c562/nahida-cat-dance.gif" align="right" height=300>
   </div>
-<ul style="margin-left: 40px;">
+<ul style="margin-left: 90px;">
   <li><b>Name:</b> Matthew Feri Tanutan</li>
   <li><b>Loves:</b> Servers, Competitive Games, Singleplayer Games</li>
   <li><b>University:</b> University of Southeastern Philippines</li>
@@ -19,7 +19,7 @@
 <br>
 </div>
 
-<br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
 <h2 align="center"> 😼 ~ Technologies & Tools ~ 😼 </h2>
 
