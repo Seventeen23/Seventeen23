@@ -49,7 +49,11 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="SQL"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"/>
   <br><br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+  <a src="https://github.com/Seventeen23/Seventeen23">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  </a>
+  
 </p>
 
 <br>
