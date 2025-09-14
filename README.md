@@ -16,7 +16,7 @@
 <li><b>Working @:</b> Unemployed 😿</li>
 <br><br><br>
 </div>
-
+<br><br><br>
 <h2 align="center"> 😼 ~ Technologies & Tools ~ 😼 </h2>
 
 <p align="center">
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
   <img src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white" alt="R"/>
-  <img src="TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TS"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TS"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React Native"/>
