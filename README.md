@@ -48,7 +48,8 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" alt="MariaDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="SQL"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"/>
-  <br>
+  <br><br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 </p>
 
 <br>
