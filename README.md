@@ -54,10 +54,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seventeen23&layout=compact&theme=tokyonight"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Seventeen23&show_icons=true&theme=tokyonight"/>
   </a>
-  
+  <br>
 </p>
 
-<br>
+<br><br>
 
 <h2 align="center"> 😼 ~ Contact Me ~ 😼 </h2>
 
@@ -67,8 +67,24 @@
   
 <br>
 
-<p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/Miellabun" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center">Here are some of my <br>
+socials 🫣 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/matthew-feri-tanutan-2676332a0/" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/
+  </a> 
+  <a href="mailto:matthewtanutan17@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/
+  </a> 
+  <a href="mailto:matthewtanutan17@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/
+  </a> 
+</p>
 </div>
+
+<p align="center">
+  <a href="https://Seventeen23/">
+    <img src="https://github.com/Seventeen23/Seventeen23/blob/2bce0e7316496eb355ef128d457471a36323a572/deku-java.gif" alt="Footer image"/>
+  </a>
+</p>
 
