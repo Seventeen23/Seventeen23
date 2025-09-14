@@ -9,15 +9,17 @@
 <div align="center">
 <img src="https://github.com/Seventeen23/Seventeen23/blob/72eadd729a2080ea4dd0ac588752a943f449c562/nahida-cat-dance.gif" align="right" height=300>
   </div>
-<li><b>Name:</b> Matthew Feri Tanutan</li>
-<li><b>Loves:</b> Servers, Competetive Games, Singleplayer Games</li>
-<li><b>University:</b> University of Southeastern Philippines</li>
-<li><b>Hobbys:</b> Tech Stuff, Pokemon, Web Development, GameDev, Gaming</li>
-<li><b>Working @:</b> Unemployed 😿</li>
-<br><br><br>
+<ul style="margin-left: 40px;">
+  <li><b>Name:</b> Matthew Feri Tanutan</li>
+  <li><b>Loves:</b> Servers, Competitive Games, Singleplayer Games</li>
+  <li><b>University:</b> University of Southeastern Philippines</li>
+  <li><b>Hobbies:</b> Tech Stuff, Pokemon, Web Development, GameDev, Gaming</li>
+  <li><b>Working @:</b> Unemployed 😿</li>
+</ul>
+<br>
 </div>
 
-<br><br><br>
+<br><br><br><br>
 
 <h2 align="center"> 😼 ~ Technologies & Tools ~ 😼 </h2>
 
