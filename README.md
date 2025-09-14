@@ -51,8 +51,8 @@
   <br><br>
 
   <a src="https://github.com/Seventeen23/Seventeen23">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seventeen23&layout=compact&theme=tokyonight"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Seventeen23&show_icons=true&theme=tokyonight"/>
   </a>
   
 </p>
