@@ -93,7 +93,7 @@ socials 🫣
 </p>
 </div>
 
-<br><br>
+<br><br><br>
 
 <h2 align="center"> 😼 ~ Thank you  ~ 😼 </h2>
 
