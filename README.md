@@ -7,7 +7,7 @@
 <h2 align="center"> 😼 ~ About Me ~ 😼 </h2>
 
 <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="https://github.com/Seventeen23/Seventeen23/blob/72eadd729a2080ea4dd0ac588752a943f449c562/nahida-cat-dance.gif" align="right">
   </div>
 <li><b>Name:</b> Matthew Feri Tanutan</li>
 <li><b>Loves:</b> Servers, Competetive Games, Singleplayer Games</li>
@@ -46,10 +46,10 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white" alt="MariaDB"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="SQL"/>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub"/>
-  <br><br>
+  <br>
 </p>
 
-<br><br>
+<br>
 
 <h2 align="center"> 😼 ~ Contact Me ~ 😼 </h2>
 
