@@ -71,18 +71,20 @@
 socials 🫣 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/matthew-feri-tanutan-2676332a0/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="30"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="300"/>
   </a> 
   <a href="mailto:matthewtanutan17@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="30"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="300"/>
   </a> 
   <a href="https://discord.gg/sev23" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" height="30"/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" height="300"/>
   </a>
 </p>
 </div>
 
 <br><br><br><br><br><br>
+
+<h2 align="center"> 😼 ~ Thank you  ~ 😼 </h2>
 
 <p align="center">
   <a href="https://Seventeen23/">
