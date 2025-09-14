@@ -51,7 +51,7 @@
   <br><br>
 
   <a src="https://github.com/Seventeen23/Seventeen23">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seventeen23&layout=compact&theme=tokyonight"/>
   </a>
   
 </p>
@@ -60,4 +60,14 @@
 
 <h2 align="center"> 😼 ~ Contact Me ~ 😼 </h2>
 
+<div align="center">
+  <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+</div>
+  
+<br>
+
+<p align="center">Hewe awe some of my <br>
+most used s-s-sociaw things >~< xoxox</p>
+<p align="center"><a href="https://twitter.com/Miellabun" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+</div>
 
