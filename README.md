@@ -68,16 +68,27 @@
 <br>
 
 <p align="center">Here are some of my <br>
-socials 🫣 </p>
+socials 🫣 
+</p>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/matthew-feri-tanutan-2676332a0/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="300"/>
-  </a> 
-  <a href="mailto:matthewtanutan17@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="300"/>
-  </a> 
-  <a href="https://discord.gg/sev23" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" height="300"/>
+  <a href="mailto:yourname@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"
+      alt="Gmail"
+      height="40">
+  </a>
+  <a href="https://www.linkedin.com/in/matthew-feri-tanutan-2676332a0/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"
+      alt="LinkedIn"
+      height="40">
+  </a>
+  <a href="https://discord.gg/YOUR_INVITE_CODE">
+    <img
+      src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge"
+      alt="Discord"
+      height="40">
   </a>
 </p>
 </div>
